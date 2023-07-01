@@ -12,7 +12,7 @@
     display: flex;
     /* Forces elements to the next line if they don't fit */
     flex-wrap: wrap;
-    background-color: rgba(22, 80, 90, 0.404);
+    background-color: rgba(55, 206, 233, 0.116);
     
   }
   
@@ -29,6 +29,8 @@
     width: 10px;
     min-width: 10px;
   }
+
+
   .card {
     flex: 1 0 0;
     padding: 10px;
